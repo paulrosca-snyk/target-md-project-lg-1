@@ -1,0 +1,24 @@
+{
+  "name": "project-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@code-rub/github-issues": "^1.3.1",
+    "color-catalogs": "^0.0.4",
+    "data-source-controller": "^1.0.0",
+    "esix": "^3.2.1",
+    "lungo-cli": "^3.0.0",
+    "nodegit-pre-gyp": "^0.17.0",
+    "npm_liaojunjun_1": "^1.0.0",
+    "puzzled_coyote_z3n": "^4.4.3",
+    "roche-vue2-datepicker": "^1.1.8",
+    "vue-cli-plugin-svg": "^0.2.1"
+  }
+}

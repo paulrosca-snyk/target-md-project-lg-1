@@ -1,0 +1,24 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gnanavinaym/sample-npm": "^1.0.0",
+    "@kevinyosua/react-tag-input-component": "^2.0.4",
+    "@simtropolis/request": "^0.1.35",
+    "currency-convertor-508": "^1.0.1",
+    "glazed-cli": "^1.0.4",
+    "nokire-genji89": "^1.0.0",
+    "pmdwebcomponents": "^1.0.3",
+    "postcss-webp-image-prefix": "^0.0.2",
+    "xpresent-autolinker": "^3.15.0-beta.1",
+    "xvision-wechat-min": "^1.0.5"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dickyarya/arya2k": "^1.1.4",
+    "@fvictorio/hardhat-chai-matchers": "^2.0.7",
+    "@macklinu/jest-environment-jsdom-fifteen": "^0.2.0",
+    "@shibi-snowball/c3-shared": "^0.1.9",
+    "board-game": "^0.0.53",
+    "hazasera": "^1.0.0",
+    "kalista": "^0.0.0",
+    "miur": "^0.1.1",
+    "redstarcloud-ui-beta": "^0.0.70",
+    "svg-piano": "^0.3.1"
+  }
+}

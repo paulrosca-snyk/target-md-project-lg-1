@@ -1,0 +1,24 @@
+{
+  "name": "project-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@backpackjs/react": "^0.0.1",
+    "@samanmoss2/nestjs-package-starter": "^1.0.0",
+    "@zibuthe7j11/earum-eius-exercitationem": "^1.0.0",
+    "dsr-delete-wubwub-tasks-mondo-quant-dekko": "^1.0.0",
+    "fluent-flip-loader": "^1.0.0",
+    "generator-jhipster-flutter": "^0.0.0",
+    "hosting.min.js": "^1.2.3-0",
+    "jtee": "^0.1.0-beta.16",
+    "menprogram": "^1.0.0",
+    "sappackagepp": "^1.0.0"
+  }
+}

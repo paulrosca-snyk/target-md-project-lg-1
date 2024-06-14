@@ -1,0 +1,24 @@
+{
+  "name": "project-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amindunited/recursive-read-directory": "^0.0.0",
+    "@victorequena22/slate-bootstrap": "^1.0.4",
+    "button-web-component": "^0.0.4",
+    "cy2pw": "^0.0.6",
+    "gql-anywhere": "^4.2.7",
+    "hidden-temple": "^0.0.0",
+    "http-shutdown": "^1.2.2",
+    "manadsi-sfadia-mada": "^1.0.0",
+    "maptoolz": "^1.0.1",
+    "test111111111111": "^1.0.3-beta2"
+  }
+}

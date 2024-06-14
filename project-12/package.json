@@ -1,0 +1,24 @@
+{
+  "name": "project-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cypher-swift/lib": "^1.0.0",
+    "@kubernetes-models/gke": "^4.4.0",
+    "am-audio": "^0.0.2",
+    "gmojjsiotgjfogj": "^1.0.0",
+    "herdpay-seedlings": "^0.0.2",
+    "hx-cli-lw": "^2.0.0",
+    "jwt-readable-release-it-yaml": "^1.2.3",
+    "react-flexlist": "^1.1.1",
+    "technical-albio-tolanaiban": "^1.1.10",
+    "thank-cli": "^1.0.6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reactcli/react-cli": "^1.0.0",
+    "@tabula/tree-utils": "^0.1.0",
+    "5th-project-todo": "^1.0.0",
+    "browserify-jquery": "^1.6.3",
+    "cal-arabic": "^1.0.7",
+    "cata-types": "^0.1.0-alpha.1",
+    "fedguyhat": "^0.1.1",
+    "find-folder": "^0.0.4",
+    "mobile-fontsize": "^1.0.0",
+    "tunezer": "^0.0.1-security"
+  }
+}

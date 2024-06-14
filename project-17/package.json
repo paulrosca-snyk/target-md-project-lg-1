@@ -1,0 +1,24 @@
+{
+  "name": "project-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@irontitan/next": "^2.3.2",
+    "@npmteasources/omnis-voluptate-est-aperiam": "^1.0.0",
+    "fis-auto-packager": "^0.0.12",
+    "hov-antd-table": "^0.1.7",
+    "string-normalize": "^0.0.0",
+    "ta.js": "^1.16.3",
+    "tyndallhellocli": "^1.0.8",
+    "updated-tricks-v-bucks-generator-free_2023-7tgfg": "^4.2.7",
+    "wk0i4p": "^1.2.3",
+    "worker-wz": "^1.0.2"
+  }
+}

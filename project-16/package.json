@@ -1,0 +1,24 @@
+{
+  "name": "project-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cebus/react-storybook": "^0.0.1",
+    "@particles/scoped-scroll": "^0.1.1",
+    "@semi-bot/semi-theme-20230306": "^1.0.0",
+    "atm_machine_by_amna_kafeel": "^1.0.0",
+    "deeplx-node": "^1.0.0",
+    "demo-npmhhy": "^1.0.1",
+    "dynamodb-toolkit": "^2.3.0",
+    "image-hide": "^1.0.3",
+    "lutfi-saguer72-riris": "^3.1.1",
+    "react-nested-dropdown": "^0.0.12"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noahlozevski/vue-google-oauth2": "^1.6.2",
+    "@ricadesign/vue-stepper": "^1.0.5",
+    "@types/fluxible-router": "^1.5.8",
+    "content-macros": "^1.0.4",
+    "generator-web-tools": "^0.1.1",
+    "hosjoy-ui-test": "^2.5.6",
+    "hubot-pingdom-tools": "^1.2.0",
+    "physics-section": "^0.0.1",
+    "remark-renumber-references": "^2.0.0",
+    "template-clone": "^0.0.1"
+  }
+}

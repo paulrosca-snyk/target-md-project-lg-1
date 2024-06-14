@@ -1,0 +1,24 @@
+{
+  "name": "project-24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fredcoen/hello-wasm": "^0.1.2",
+    "@nexio/ui-typography": "^1.0.20",
+    "deriv-translations-am": "^1.0.0",
+    "es6-with-traits": "^0.0.5",
+    "float-computers1": "^1.0.0",
+    "hive-stream": "^2.0.6",
+    "mendaraiki": "^0.1.0",
+    "ngx-xyz-project": "^0.0.1",
+    "nor-date": "^0.1.22",
+    "task-graph-processor": "^0.4.0"
+  }
+}

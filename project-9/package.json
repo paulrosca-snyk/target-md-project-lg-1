@@ -1,0 +1,24 @@
+{
+  "name": "project-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@churrasco-ui/tokens": "^2.0.4",
+    "@serverless-framework/core": "^1.0.0",
+    "@tschallacka/oc.foundation.controlutils": "^1.0.3",
+    "burayot": "^1.1.4",
+    "cls-loggie": "^0.0.1",
+    "hcktest": "^1.2.0",
+    "jaja-oncom21-miaww": "^3.1.2",
+    "node.cmd": "^2.0.7",
+    "sunscreen_snap_tmp3": "^0.2.0",
+    "time90-init": "^1.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aredridel/svelte-lens-store": "^1.0.0",
+    "@authless/server": "^3.11.5",
+    "@jaehun-lib/ui": "^0.0.1",
+    "@keystone-next/fields-location-google-legacy": "^3.3.4",
+    "@moonr/bing-upd": "^1.1.0",
+    "budescut": "^1.1.4",
+    "figlet-color": "^1.0.1",
+    "pixflow-disable": "^1.0.2",
+    "test-acceptance-cypress": "^1.0.57",
+    "vibe-protocol": "^3.0.0-Alpha12"
+  }
+}

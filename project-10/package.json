@@ -1,0 +1,24 @@
+{
+  "name": "project-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mtna/pojo-request-ui": "^9.4.1",
+    "3.22rkhhhhh": "^1.0.1",
+    "gg-team-meantimes-cavemen": "^1.0.0",
+    "irma-rendang63-sluey": "^4.4.3",
+    "jalngo-custom-directive": "^1.0.1",
+    "okta-oblok82-miaww": "^3.3.4",
+    "probot-serverless-azurefunctions": "^0.0.2",
+    "ranarana-cli-number-guessing-game": "^1.0.1",
+    "resource-endpoint": "^5.0.0",
+    "zedmommyui": "^1.0.3"
+  }
+}

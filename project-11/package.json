@@ -1,0 +1,24 @@
+{
+  "name": "project-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deevotechvn/vue-xlsx-table": "^1.3.1",
+    "@dosomething/analytics": "^2.1.2",
+    "f-bendera-lisa": "^1.0.0",
+    "magnolia.js": "^2.0.0",
+    "myprojectchamran": "^1.0.0",
+    "oktafian-semur63-miaww": "^1.4.3",
+    "peasy": "^0.3.2",
+    "redux-async-action-helper": "^1.0.3",
+    "stupid-dependency-tracker": "^0.0.1",
+    "zhu-http-server": "^1.0.1"
+  }
+}

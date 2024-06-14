@@ -1,0 +1,24 @@
+{
+  "name": "project-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@buxlabs/posthtml-inline-components": "^0.1.0",
+    "bfx-facs-util-shard": "^0.0.1-security.3",
+    "cordova-plugin-fingerprint-aio-133fixed": "^1.3.8",
+    "dicerollacoaster": "^1.0.0",
+    "frontend-lazy": "^1.0.2",
+    "hooq-reporting": "^0.0.4",
+    "junk-bucket": "^1.6.0",
+    "squint-cljs": "^0.7.111",
+    "winurl": "^0.0.1",
+    "xform-js": "^0.1.0"
+  }
+}

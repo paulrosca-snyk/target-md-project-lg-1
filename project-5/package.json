@@ -1,0 +1,24 @@
+{
+  "name": "project-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@animini/core": "^0.3.0",
+    "device-custom-isom": "^1.0.0",
+    "foobar-ui": "^0.0.9",
+    "react-native-bluetooth-lite": "^0.3.3",
+    "scf-framework": "^1.0.4",
+    "skillrazr-cli": "^0.2.9",
+    "source-map-helper": "^0.0.1",
+    "trainiac-js-babel-configs": "^0.1.3",
+    "v-select-box": "^2.3.3",
+    "xm_node_server_secondxcqxcq": "^1.0.0"
+  }
+}

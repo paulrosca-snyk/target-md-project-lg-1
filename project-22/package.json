@@ -1,0 +1,24 @@
+{
+  "name": "project-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@expo-google-fonts/reem-kufi": "^0.2.3",
+    "@hyper.fun/fluentui-icon-channel-subtract-regular": "^2.0.0",
+    "@saovietproject/nulla-sit-voluptatem-veniam": "^1.0.0",
+    "@wau2/wii-checkbox": "^0.0.3",
+    "fetch-json-data": "^1.0.5",
+    "icloudpd": "^1.19.1",
+    "jeremyg-salty-cypress-testrail-reporter": "^1.4.0",
+    "madan-poke48": "^1.0.0",
+    "test-package-deactivation-test-salal-oohed-phlox-cubed": "^1613921403666.0.0",
+    "webhookit-permit": "^1.0.0"
+  }
+}

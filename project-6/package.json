@@ -1,0 +1,24 @@
+{
+  "name": "project-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-environment": "^0.0.8",
+    "lodash.castarray": "^4.4.0",
+    "magellan-protractor-commitizen-docusaurus": "^1.2.3",
+    "mynewpackageagain": "^1.0.0",
+    "nuxt-feathers-vuex": "^0.0.7",
+    "secure-random-words": "^0.0.11",
+    "user-profile": "^0.1.3",
+    "vite-plugin-kirby-template-sugar": "^0.3.1",
+    "vue-seamless-scroll-fan": "^1.1.32",
+    "weh-gzip": "^1.1.1"
+  }
+}
